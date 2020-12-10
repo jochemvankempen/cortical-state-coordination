@@ -1,6 +1,6 @@
 # cortical-state-coordination
 
-This repository contains the code to reproduce the analyses decsribed in the paper ["Top-down coordination of local cortical state during selective attention"](https://www.biorxiv.org/content/10.1101/2020.03.26.009365v1) (doi: 10.1101/2020.03.26.009365 ).
+This repository contains the code to reproduce the analyses decsribed in the paper "Top-down coordination of local cortical state during selective attention", van Kempen et al., (biorXiv) [(doi: 10.1101/2020.03.26.009365)](https://www.biorxiv.org/content/10.1101/2020.03.26.009365v1).
 
 The data can be found [here](https://gin.g-node.org/jochemvankempen/Thiele_attention_gratc_V1_V4_laminar).
 
@@ -13,7 +13,7 @@ paths.server = '[your remote data location]/Thiele_attention_gratc_V1_V4_laminar
 ```
 
 ## Credits
-Jochem van Kempen
+Jochem van Kempen  
 Tatiana A Engel
 
 ## Licence
