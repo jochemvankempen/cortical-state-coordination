@@ -8,8 +8,8 @@ The data can be found [here](https://gin.g-node.org/jochemvankempen/Thiele_atten
 After cloning the repository, set the path to the data folder in `./analyses/computer_setup.m`.
 
 ```matlab
-paths.base = '[your local data location]/Thiele_attention_gratc_V1_V4_laminar/'
-paths.server = '[your remote data location]/Thiele_attention_gratc_V1_V4_laminar/'
+paths.base ='[your-local-drive]\Thiele_attention_gratc_V1_V4_laminar\';
+paths.server = '[your-remote-drive]\Thiele_attention_gratc_V1_V4_laminar\';
 ```
 
 ## Folders/components
