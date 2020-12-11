@@ -12,6 +12,19 @@ paths.base = '[your local data location]/Thiele_attention_gratc_V1_V4_laminar/'
 paths.server = '[your remote data location]/Thiele_attention_gratc_V1_V4_laminar/'
 ```
 
+## Folders/components
+
+### analyses
+A collection of analyses. Analyses are run from `./analyses/batch_analyses.m`.
+
+### hpc
+A collection of bash/shell scripts to run analyses on a high-performance-computing cluster (SLURM). 
+
+### lists
+Lists with recording information and matlab scripts to load this info. 
+- Thiele.Session_[subjectName]: list of recordings
+- Thiele.PenGrid_[subjectName]: list of which areas (and accompanying channel indices) was recorded from for given session.
+
 ## Credits
 Jochem van Kempen  
 Tatiana A Engel
