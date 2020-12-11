@@ -5,7 +5,7 @@ This repository contains the code to reproduce the analyses decsribed in the pap
 The data can be found [here](https://gin.g-node.org/jochemvankempen/Thiele_attention_gratc_V1_V4_laminar).
 
 ## Setup
-After cloning the repository, set the path to the data folder in `./analyses/computerSetup.m`.
+After cloning the repository, set the path to the data folder in `./analyses/computer_setup.m`.
 
 ```matlab
 paths.base = '[your local data location]/Thiele_attention_gratc_V1_V4_laminar/'
