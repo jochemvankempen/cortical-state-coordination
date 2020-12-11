@@ -27,7 +27,7 @@ Lists with recording information and matlab scripts to load this info.
 
 ## Credits
 Jochem van Kempen  
-Tatiana A Engel
+[Tatiana A Engel](https://www.cshl.edu/research/faculty-staff/tatiana-engel/#research-profile)
 
 ## Licence
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
