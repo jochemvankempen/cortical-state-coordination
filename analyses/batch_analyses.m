@@ -36,7 +36,7 @@ end
 assert(isfolder(fullfile(repoPath, 'analyses')), 'Cannot find repository: analyses')
 
 addpath(genpath( fullfile(repoPath, 'analyses') ))
-addpath(genpath( fullfile(repoPath, 'clusterComputing') ))
+addpath(genpath( fullfile(repoPath, 'hpc') ))
 addpath(genpath( fullfile(repoPath, 'lists') ))
 
 %% check whether we are on the hpc cluster
