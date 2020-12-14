@@ -22,7 +22,7 @@ poolDataForPopulation = 0;
 %% addpaths
 
 % name the folder that contains this repository (optional). Note: repositories
-% clusterComputing and lists should be in the same folder. If not provided,
+% hpc and lists should be in the same folder. If not provided,
 % it is searched for.
 repoPath = '';
 
