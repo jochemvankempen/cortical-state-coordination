@@ -4,7 +4,7 @@ This repository contains the code to reproduce the analyses decsribed in the pap
 
 The hidden Markov model (HMM) was originally described in "Selective modulation of cortical state during spatial attention", Engel et al., (Science, 2016) [(doi: 10.1126/science.aag1420)](https://science.sciencemag.org/content/354/6316/1140.full)
 
-The data can be found [here](https://doi.org/10.12751/g-node.ll7qqp).
+The data can be found [here](https://doi.org/10.12751/g-node.b0mnn2).
 
 ## Setup
 After cloning the repository, set the path to the data folder in `./analyses/computer_setup.m`.
