@@ -1,6 +1,6 @@
 # cortical-state-coordination
 
-This repository contains the code to reproduce the analyses decsribed in the paper "Top-down coordination of local cortical state during selective attention", van Kempen et al., (biorXiv, 2020) [(doi: 10.1101/2020.03.26.009365)](https://www.biorxiv.org/content/10.1101/2020.03.26.009365v1). 
+This repository contains the code to reproduce the analyses decsribed in the paper "Top-down coordination of local cortical state during selective attention", van Kempen et al., (Neuron, 2020) [(doi: 10.1016/j.neuron.2020.12.013)](https://authors.elsevier.com/sd/article/S0896-6273(20)30995-8). 
 
 The hidden Markov model (HMM) was originally described in "Selective modulation of cortical state during spatial attention", Engel et al., (Science, 2016) [(doi: 10.1126/science.aag1420)](https://science.sciencemag.org/content/354/6316/1140.full)
 
